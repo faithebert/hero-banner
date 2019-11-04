@@ -49,6 +49,6 @@ p {
   left: 50%;
   max-width: 50em;
   width: 100%;
-  padding: 0 1rem;
+  padding: 0 1.4rem;
   transform: translateX(-50%);
 }
