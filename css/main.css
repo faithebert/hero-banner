@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h2 {
+  font-size: 4rem;
+  background-color: rgba(0, 0, 0, .5);
+}
+
+p {
+  font-size: 2rem;
+}
+
+.banner {
+  max-height: 500px;
+}
+
+.banner-content {
+  max-width: 50em;
+}
